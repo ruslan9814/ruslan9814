@@ -16,3 +16,7 @@
 ### 1. **Project Name**
    - **Description**: A brief overview of the project.
    - **Technologies Used**: .NET, React, PostgreSQL, Docker
+
+<a href="https://github.com/ruslan9814">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruslan9814&show_icons=true&hide=stars" />
+</a>
