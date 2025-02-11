@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ruslan - Software Engineer
 
-<!--
-**ruslan9814/ruslan9814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
 
-Here are some ideas to get you started:
+- **Languages**: .NET (C#), Python, C++, JavaScript (JS)
+- **Frontend**: React, Next.js, Vite.js
+- **Backend**: .NET Core, Python (Flask, Django)
+- **Databases**: PostgreSQL, MS SQL, SQLite, Redis
+- **DevOps**: Docker, Docker Compose, GitHub Actions
+- **Testing**: Unit Testing, BDD, TDD
+- **Architecture**: Domain-Driven Design (DDD), Onion Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+### 1. **Project Name**
+   - **Description**: A brief overview of the project.
+   - **Technologies Used**: .NET, React, PostgreSQL, Docker
